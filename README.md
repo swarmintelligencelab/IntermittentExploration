@@ -16,12 +16,13 @@ The repository includes a folder with six subfolders, each corresponding to an e
 Each subfolder contains CSV files of the time-series data of the experiments for the respective condition.
 The CSV files include the following columns:
 
-Frame: Frame index
-Time: Timestamp in seconds
-X_Arena0_Ind0: X-coordinate of fish 1 in the arena
-Y_Arena0_Ind0: Y-coordinate of fish 1 in the arena
-X_Arena0_Ind1: X-coordinate of fish 2 in the arena (for experiments with two or more fish)
-Y_Arena0_Ind1: Y-coordinate of fish 2 in the arena (for experiments with two or more fish)
+- Frame: Frame index
+- Time: Timestamp in seconds
+- X_Arena0_Ind0: X-coordinate of fish 1 in the arena
+- Y_Arena0_Ind0: Y-coordinate of fish 1 in the arena
+- X_Arena0_Ind1: X-coordinate of fish 2 in the arena (for experiments with two or more fish)
+- Y_Arena0_Ind1: Y-coordinate of fish 2 in the arena (for experiments with two or more fish)
+
 For experiments involving three fish, additional columns are included for the third fish's coordinates.
 
 # Usage
