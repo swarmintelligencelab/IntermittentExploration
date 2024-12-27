@@ -3,7 +3,7 @@
 This repository contains the data used for the analysis and modeling of fish collective behavior in the study: "Collective intermittent exploration in fish schools is mediated by visual cues"
 by Deze Liu and Daniel Burbano.
 
-#Repository Structure
+# Repository Structure
 The repository includes a folder with six subfolders, each corresponding to an experimental condition:
 
 - Singles-Bright: Single fish in a bright environment
@@ -24,6 +24,6 @@ X_Arena0_Ind1: X-coordinate of fish 2 in the arena (for experiments with two or 
 Y_Arena0_Ind1: Y-coordinate of fish 2 in the arena (for experiments with two or more fish)
 For experiments involving three fish, additional columns are included for the third fish's coordinates.
 
-#Usage
+# Usage
 The data is provided for replication of the analysis and modeling described in the study. Please refer to the original paper for detailed methodology and results.
 
